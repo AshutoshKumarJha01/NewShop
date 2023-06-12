@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Tea - Herbal I Love Lemon",
+        "price": "$52.51",
+        "desc": "Revision of Nonaut Sub in Fallopian Tube, Endo",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBLcog2Q03_aQ3l5hvK44UmpQJabGlPG5TVyNdWHHZZeLwni2Skh-vJHFbP_Tgit4Dic&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "name": "Coffee Beans - Dark Roast",
+        "price": "$12.99",
+        "desc": "Rich and bold dark roast coffee beans",
+        "img":"https://cdn.shopify.com/s/files/1/0271/7209/articles/coffee-beans-unsplash.jpg?v=1671553501"
+      },
+      {
+        "id": 3,
+        "name": "Organic Honey",
+        "price": "$9.99",
+        "desc": "Pure and natural organic honey",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrD9Z_jtmsU2DPy5NWfu2dl_vb5_nLCMQn3KdffOeAeOSaIGcIWwBWo2LPUTzcrKHVs40&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "name": "Bluetooth Speaker",
+        "price": "$39.99",
+        "desc": "Portable Bluetooth speaker with high-quality sound",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzDU6w4taYW-21Gs_ZthAm0uJixX3Ol78uw&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "Laptop Bag",
+        "price": "$29.99",
+        "desc": "Stylish and durable laptop bag for everyday use",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCCBkbHTuTxtwSSmj0Fzs5z0DBqhCwx2n_g&usqp=CAU"
+      },
+      {
+        "id": 6,
+        "name": "Fitness Tracker",
+        "price": "$79.99",
+        "desc": "Advanced fitness tracker with heart rate monitor",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZVaNRPwQ-NIodcrzab9PKV2mrCmXV5_RTyg&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "name": "Cookware Set",
+        "price": "$129.99",
+        "desc": "Premium non-stick cookware set for the modern kitchen",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96U1GsIpimRads2UXiJo4HBCZLMLuybiRcQ&usqp=CAU"
+      }
+    ]
+  }
+  
