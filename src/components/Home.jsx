@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button } from "@mui/material";
+import Feed from './Feed';
 import { AccessAlarm, ThreeDRotation } from "@mui/icons-material";
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
       <Button variant="contained">Contained</Button>
       <Button variant="outlined">Outlined</Button>
       <ThreeDRotation />
-      <h1>Hello</h1>
+      {/* <Feed/> */}
     </>
   )
 }

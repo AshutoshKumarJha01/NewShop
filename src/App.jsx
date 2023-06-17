@@ -1,17 +1,15 @@
 import "./App.css";
 import NavBar from "./components/NavBar";
-import Home from "./components/Home";
+import Login from "./components/login";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
   return (
     <>
-<<<<<<< HEAD
-
       <NavBar/>
-=======
-      <Home/>     
->>>>>>> e0f22ec09a4c4116923af06e59fb48d0aae94b63
+      <Login/>   
     </>
   );
 }

@@ -1,5 +1,4 @@
-{
-    "products": [
+[
       {
         "id": 1,
         "name": "Tea - Herbal I Love Lemon",
@@ -49,6 +48,5 @@
         "desc": "Premium non-stick cookware set for the modern kitchen",
         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96U1GsIpimRads2UXiJo4HBCZLMLuybiRcQ&usqp=CAU"
       }
-    ]
-  }
+  ]
   
